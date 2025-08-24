@@ -24,3 +24,4 @@ Analyze COVID-19 cases and deaths across countries and time periods.
 
 👤 **Author:** Bala Murugan  
 🔗 Notebook file: [project.ipynb](./project.ipynb)
+▶️ Run it here: [Open in Colab]( https://lnkd.in/ekJFd3VC )
